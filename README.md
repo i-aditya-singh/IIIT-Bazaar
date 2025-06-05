@@ -34,4 +34,4 @@ Built with Jetpack Compose and Firebase, it ensures a smooth and modern user exp
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iiit-bazaar
+   git clone https://github.com/i-aditya-singh/iiit-bazaar
